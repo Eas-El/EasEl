@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sloorush/HackThisFall-EasEL.git"
+    "url": "git+https://github.com/Eas-El/EasEl.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sloorush/HackThisFall-EasEL/issues"
+    "url": "https://github.com/Eas-El/EasEl/issues"
   },
-  "homepage": "https://github.com/sloorush/HackThisFall-EasEL#readme",
+  "homepage": "https://github.com/Eas-El/EasEl#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",

@@ -27,7 +27,7 @@
 
 ## Screenshot
 
-<img src="https://github.com/sloorush/HackThisFall-EasEL/blob/master-backend/Mockup%20designs/combined%20mockup.jpg" alt="Project Screenshots">
+<img src="./Mockup%20designs/combined%20mockup.jpg" alt="Project Screenshots">
 
 ## Installation
 
