@@ -1,4 +1,4 @@
-# HackThisFall : EasEL - Easy Education and Learning 💻
+# EasEL - Easy Education and Learning 💻
 
 > <Subtitle>
 > EasEL is an entire learning experience with tools like attentiveness trackers and closed captions for lessons, providing a solution which is easy, smart and interactive.
@@ -39,7 +39,7 @@ $ npm install
 $ nodemon app.js
 ```
 
-## To Run the tests
+## Testing the application
 
 ```sh=
 npx cypress open
@@ -50,3 +50,10 @@ npx cypress open
 - See the results
 
 ## Test results
+
+Running the test results at the moment should have something like this
+
+<img src="./assets/img/cypress-ui.jpeg" alt="test">
+<img src="./assets/img/landing-test-result.jpeg" alt="test">
+<img src="./assets/img/analyse-page-test-result.jpeg" alt="test">
+<img src="./assets/img/notes-page-test-result.jpeg" alt="test">
