@@ -33,8 +33,20 @@
 
 Make sure you are in master-backend branch
 
-```
-$ git clone https://github.com/sloorush/HackThisFall-EasEL.git
+```sh=
+$ git clone https://github.com/Eas-El/EasEl.git
 $ npm install
 $ nodemon app.js
 ```
+
+## To Run the tests
+
+```sh=
+npx cypress open
+```
+
+- It opens cypress in an automated chrome window.
+- Choose the test file you want to run
+- See the results
+
+## Test results
